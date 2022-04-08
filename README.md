@@ -1,5 +1,10 @@
 # heterogeneous_separation
-Code and data recipes for the paper: Heterogeneous Target Speech Separation https://arxiv.org/pdf/2204.03594.pdf
+Code and data recipes for the paper: 
+**Heterogeneous Target Speech Separation** 
+Efthymios Tzinis, Gordon Wichern, Aswin Subramanian, Paris Smaragdis, and Jonathan Le Roux
+https://arxiv.org/pdf/2204.03594.pdf
+
+What happens when one wants to slice an audio scene with various semantic concepts which could also be non-mutually exclusive for the constituent sources?
 
 We will soon publish the data recipes for: 
 
