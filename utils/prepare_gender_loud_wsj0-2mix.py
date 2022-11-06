@@ -37,7 +37,7 @@ def extract_metadata_file():
         raise IOError(f"File: {gender_info_path} could not be parsed for gender "
                       f"information.")
 
-    for split in split_map.keys():
+    for split in tqdm(split_map.keys()):
         main_dir_path = os.path.join(
             WHAM_ROOT_PATH, 'wav{}k'.format(int(sample_rate / 1000)), 'min', split)
 
