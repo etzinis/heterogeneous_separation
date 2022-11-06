@@ -7,8 +7,7 @@ import os
 ROOT_DIRPATH = "/home/thymios/MERL/code/github_projects/heterogeneous_separation/"
 
 """Datasets paths"""
-WHAM_ROOT_PATH = "/db/original/public/WHAM/wham/"
-WHAMR_ROOT_PATH = "/db/original/public/WHAM/whamr/"
+WHAM_ROOT_PATH = "/mnt/data/wham/"
 
 """Metadata text files for datasets"""
 WHAM_METADATA_P = os.path.join(
