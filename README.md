@@ -40,7 +40,7 @@ Specifically, we make the following contributions:
 ## Audio Demos
 A harder language conditioning with severe noisy interference:
 
-<audio src="./hard_in_mix_lang/estimated_0.wav" controls preload></audio>
+<audio src="./audio_samples/hard_in_mix_lang/estimated_0.wav" controls preload></audio>
 
 ## Paths Configurations
 
