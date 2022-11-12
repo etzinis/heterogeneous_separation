@@ -32,9 +32,15 @@ Specifically, we make the following contributions:
 
 ## Table of contents
 
+- [Audio Demos](#audio-demos)
 - [Paths Configurations](#paths-configurations)
 - [Datasets Preparation](#datasets-preparation)
 - [How to use the dataset loaders](#how-to-use-the-dataset-loaders)
+
+## Audio Demos
+A harder language conditioning with severe noisy interference:
+
+<audio src="./hard_in_mix_lang/estimated_0.wav" controls preload></audio>
 
 ## Paths Configurations
 
