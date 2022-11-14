@@ -9,7 +9,9 @@ TLDR; The main contribution of this paper is to introduce a novel way of trainin
 [![YouTube HCT presentation](https://img.youtube.com/vi/tPjGSuBcGA4/0.jpg)](https://www.youtube.com/watch?v=tPjGSuBcGA4 "Virtual Interspeech paper's presentation")
 
 arXiv: https://arxiv.org/abs/2204.03594
+
 pdf: https://arxiv.org/pdf/2204.03594.pdf
+
 slides: https://docs.google.com/presentation/d/15dUDG-qiX0QABBeGZ1f7pmZwtGshSp6w/edit?usp=sharing&ouid=106534973647151270598&rtpof=true&sd=true
 
 Please cite as:
@@ -40,7 +42,10 @@ Specifically, we make the following contributions:
 
 ## Heterogeneous Results
 Here is some small twitter thread explaining briefly our findings:
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
+
+[<img src="https://user-images.githubusercontent.com/22867082/201766378-463a9b86-db8e-44f6-a2f3-de450890e7e4.png" data-canonical-src="https://twitter.com/ETzinis/status/1512467095036088320" width="50%" />](https://twitter.com/ETzinis/status/1512467095036088320)
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40ETzinis)](https://twitter.com/ETzinis)
 
 ## Audio Demos
 Coming soon!
