@@ -32,15 +32,18 @@ Specifically, we make the following contributions:
 
 ## Table of contents
 
+- [Heterogeneous Results](#heterogeneous-results)
 - [Audio Demos](#audio-demos)
 - [Paths Configurations](#paths-configurations)
 - [Datasets Preparation](#datasets-preparation)
 - [How to use the dataset loaders](#how-to-use-the-dataset-loaders)
 
-## Audio Demos
-A harder language conditioning with severe noisy interference:
+## Heterogeneous Results
+Here is some small twitter thread explaining briefly our findings:
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
 
-<audio src="./audio_samples/hard_in_mix_lang/estimated_0.wav" controls preload></audio>
+## Audio Demos
+Coming soon!
 
 ## Paths Configurations
 
