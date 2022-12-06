@@ -49,6 +49,7 @@ Here is some small twitter thread explaining briefly our findings:
 
 ## Audio Demos
 Feel free to enjoy some audio-samples here:
+
 [<img width="682" alt="image" src="https://user-images.githubusercontent.com/22867082/205789915-283e0c09-40b5-4dab-92be-61431095fad4.png">](https://etzinis.github.io/projects_demos/heterogeneous.html)
 
 ## Paths Configurations
